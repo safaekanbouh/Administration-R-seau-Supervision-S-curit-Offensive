@@ -1,5 +1,3 @@
-# Administration-Réseau-Supervision-Sécurité-Offensive
-
 # Administration Réseau, Supervision & Sécurité Offensive
 
 > Laboratoire « infos.ma Lab » simulant une infrastructure d'entreprise complète : routage dynamique OSPF, ACL et NAT sous Cisco, administration Windows Server (AD/DNS/DHCP), supervision Zabbix sur Ubuntu, et audit de sécurité offensive avec Kali Linux.
